@@ -8,4 +8,4 @@ comments: false
     
 Sam is a data nerd and wears the label with pride. She also organizes an intimate monthly happy hour called Ladies of Data Science. If you are interested in joining our group, please reach out.
 
-<a href="http://i64.tinypic.com/wr1jcg.jpg"><img src="http://i64.tinypic.com/wr1jcg.jpg" width="1200"></a>
+<a href="http://i64.tinypic.com/314bhur.jpg"><img src="http://i64.tinypic.com/314bhur.jpg" width="1200"></a>
